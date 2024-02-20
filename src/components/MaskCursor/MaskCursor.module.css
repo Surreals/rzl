@@ -12,8 +12,8 @@
         font-size: 64px;
         line-height: 66px;
         cursor: default;
-        background: rgb(255, 255, 255);
-        background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(137, 137, 137, 1) 48%, rgba(255, 255, 255, 1) 100%);
+        background: rgb(0, 0, 0);
+        /* background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(137, 137, 137, 1) 48%, rgba(255, 255, 255, 1) 100%); */
 
         p {
             width: 1000px;
@@ -21,7 +21,7 @@
         }
 
         span {
-            color: #ddff00;
+            color: #00ff88;
         }
     }
 
